@@ -1,0 +1,4 @@
+,MAE_s,RMSE_s,corr_with_reference,us_per_inference
+Mamdani,6.939,8.415,0.945,100.835
+Sugeno,5.889,7.68,0.957,91.898
+Mamdani_vs_Sugeno,1.599,2.175,0.988,

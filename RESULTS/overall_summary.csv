@@ -1,0 +1,6 @@
+controller,avg_delay,avg_queue,throughput,max_queue,delay_vs_fixed_%,scenarios_won
+Fixed-Time (30s),86.71,52.99,1931.84,109.78,0.0,0
+Queue-Proportional (crisp),32.68,18.86,1994.4,43.14,-62.3,2
+Fuzzy Mamdani (expert),29.05,17.26,1994.76,40.28,-66.5,0
+Fuzzy Sugeno (expert),27.74,16.48,1995.0,38.7,-68.0,7
+Fuzzy-GA Mamdani (tuned),28.01,16.59,1995.54,38.78,-67.7,1
